@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            jcenter()
+            url "https://jitpack.io"
+            'https://maven.google.com'
+        }
+    }
+}
+rootProject.name = "ChatGPT"
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="default_web_client_id" translatable="false">51150111840-gi4uioebdgumsc6f8jee14ihh12mtuja.apps.googleusercontent.com</string>
+    <string name="continue_with_phone" />
+</resources>

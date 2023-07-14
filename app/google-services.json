@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1022010778145",
+    "project_id": "bard-26b24",
+    "storage_bucket": "bard-26b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022010778145:android:220a9a83ee8b4bf96cb960",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022010778145-9dilq50q3n7fs0kpcra4lhiramamf24m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatgpt",
+            "certificate_hash": "5c4b99c376ed2bc4e1f7a1c26b05e1e54828811a"
+          }
+        },
+        {
+          "client_id": "1022010778145-m5t5nh7o475sa2du7ivok9enhf7pl0mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgEuNoMc0AlgzbWMxySHK6X1XlBUgtkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022010778145-m5t5nh7o475sa2du7ivok9enhf7pl0mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
